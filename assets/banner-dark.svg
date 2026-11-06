@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="t d">
-  <title id="t">La Trong Anh, Aspiring SOC Analyst</title>
+  <title id="t">La Trong Anh, Security Engineer</title>
   <desc id="d">Information Security, UIT VNU-HCM. Threat detection, log analysis, IDS/IPS, incident response.</desc>
   <style>
     .mono { font-family: 'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace; }
@@ -48,7 +48,7 @@
 
   <!-- terminal prompt -->
   <text x="70" y="82" class="mono" font-size="22">
-    <tspan fill="#3fb950">tronganh@soc</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan class="k k1" fill="#e6edf3">w</tspan><tspan class="k k2" fill="#e6edf3">h</tspan><tspan class="k k3" fill="#e6edf3">o</tspan><tspan class="k k4" fill="#e6edf3">a</tspan><tspan class="k k5" fill="#e6edf3">m</tspan><tspan class="k k6" fill="#e6edf3">i</tspan><tspan class="cursor" fill="#58a6ff"> ▋</tspan>
+    <tspan fill="#3fb950">tronganh@sec</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan class="k k1" fill="#e6edf3">w</tspan><tspan class="k k2" fill="#e6edf3">h</tspan><tspan class="k k3" fill="#e6edf3">o</tspan><tspan class="k k4" fill="#e6edf3">a</tspan><tspan class="k k5" fill="#e6edf3">m</tspan><tspan class="k k6" fill="#e6edf3">i</tspan><tspan class="cursor" fill="#58a6ff"> ▋</tspan>
   </text>
 
   <!-- name and role -->
