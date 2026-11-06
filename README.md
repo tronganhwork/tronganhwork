@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tronganhwork/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-tronganhwork-0A66C2?style=for-the-badge"></a>
   <a href="mailto:tronganh.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tronganh.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <br>
   <img alt="Based in Ho Chi Minh City" src="https://img.shields.io/badge/Based_in-Ho_Chi_Minh_City-2DA44E?style=for-the-badge">
   <img alt="Open to SOC Analyst roles" src="https://img.shields.io/badge/Open_to-SOC_Analyst_roles-8250DF?style=for-the-badge">
 </p>
@@ -17,11 +18,11 @@ I studied Information Security at the **University of Information Technology (UI
 
 ```yaml
 name:       La Trong Anh
-role:       Aspiring SOC Analyst (fresher)
+role:       Security Engineer (fresher)
 education:  Information Security @ University of Information Technology (UIT), VNU-HCM
 experience: Software Security Research Intern @ InSecLab, UIT
 focus:      [threat detection, log analysis, IDS/IPS, incident response]
-languages:  [Vietnamese (native), English (VSTEP B2)]
+languages:  [Vietnamese (native), English (TOEIC 590 / VSTEP B2)]
 ```
 
 ## 💼 Experience
@@ -65,13 +66,8 @@ languages:  [Vietnamese (native), English (VSTEP B2)]
   </picture>
 </p>
 
-## 🎯 What I'm working towards
-
-- Hands-on SOC skills: SIEM (Wazuh, Splunk), endpoint telemetry with Sysmon, detections mapped to MITRE ATT&CK
-- An entry-level security certification: CompTIA Security+ or Cisco CyberOps Associate
-
 ---
 
 <p align="center">
-  <sub>Open to SOC Analyst (fresher) opportunities · Let's connect on <a href="https://www.linkedin.com/in/tronganhwork/">LinkedIn</a></sub>
+  <sub>Security Engineer (fresher) opportunities · Let's connect on <a href="https://www.linkedin.com/in/tronganhwork/">LinkedIn</a></sub>
 </p>
