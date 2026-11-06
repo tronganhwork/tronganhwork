@@ -53,19 +53,6 @@ languages:  [Vietnamese (native), English (TOEIC 590 / VSTEP B2)]
 | [LineVD reproduction](https://github.com/tronganhwork/DACN-UIT-ATCL2020-LTA) | Statement-level vulnerability detection with GNNs | Python · DGL · CodeBERT |
 <!-- Add new projects as new rows: | [Name](link) | Focus | Stack | -->
 
-## 📊 GitHub stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-    <img alt="GitHub activity" src="assets/stats-light.svg" width="49%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
-    <img alt="Top languages" src="assets/languages-light.svg" width="49%">
-  </picture>
-</p>
-
 ---
 
 <p align="center">
