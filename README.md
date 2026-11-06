@@ -7,9 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tronganhwork/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-tronganhwork-0A66C2?style=for-the-badge"></a>
   <a href="mailto:tronganh.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tronganh.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <br>
   <img alt="Based in Ho Chi Minh City" src="https://img.shields.io/badge/Based_in-Ho_Chi_Minh_City-2DA44E?style=for-the-badge">
-  <img alt="Open to SOC Analyst roles" src="https://img.shields.io/badge/Open_to-SOC_Analyst_roles-8250DF?style=for-the-badge">
 </p>
 
 ## 👋 About me
